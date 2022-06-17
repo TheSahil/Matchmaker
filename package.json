@@ -1,0 +1,17 @@
+{
+  "name": "matchmaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "html-to-text": "^8.2.0",
+    "natural": "^5.2.2",
+    "tf-idf": "^1.0.0"
+  }
+}
